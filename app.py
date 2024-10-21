@@ -10,4 +10,4 @@ def index() :
 def lab(lab) :
     return render_template(lab + ".html")
 
-app.run(port = 5001)
+app.run(port = 5001, debug = True)
