@@ -39,4 +39,3 @@ This repository is perfect for:
 | LAB | Difficulty | Covered topics|
 |---------------|:----------:|---------------|
 | `LAB ONE` | easy | ifconfig, ping ,traceroute,ping,dig|
-| 
