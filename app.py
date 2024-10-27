@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index() :
-    return redirect("<h1>Hello World</h1>")
+    return ("<h1>Hello World</h1>")
 
 @app.route('/networks/<lab>') 
 def lab(lab) :
