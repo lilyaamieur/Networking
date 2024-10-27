@@ -10,4 +10,6 @@ def index() :
 def lab(lab) :
     return render_template(lab + ".html")
 
-app.run(port = 5001)
+
+if __name__ == "__main__" :
+    app.run(port = 5001)
